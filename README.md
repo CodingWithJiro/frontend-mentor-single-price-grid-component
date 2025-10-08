@@ -1,4 +1,4 @@
-# 💻 Single Price Grid Component
+# Single Price Grid Component
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%204-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.frontend-mentor-single-price-grid-component&left_text=repo%20views)
 
-## ℹ️ A Responsive Single Price Grid Component for a Web Development Course
+## A Responsive Single Price Grid Component for a Web Development Course
 
 | _Mobile Preview (375x812)_                                   | _Desktop Preview (1440x960)_                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------- |
@@ -31,19 +31,19 @@
 
 This project is a responsive pricing component built using semantic HTML and modular CSS. It features a mobile-first layout, dark/light theme toggle, and animated UI transitions.
 
-Created as part of the building challenges from [Frontend Mentor](https://www.frontendmentor.io/).
+Created as part of the building challenges from **[Frontend Mentor](https://www.frontendmentor.io/)**.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The component includes a prominent title, value proposition, and a breakdown of pricing and benefits. The layout adapts across screen sizes with fluid media queries and uses CSS grid for structure.
 
-To enhance accessibility and usability, it includes a skip link, WCAG-compliant contrast for both themes, and keyboard-friendly theme toggling. The design was closely aligned with the provided mockup using [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonecod/dkaagdgjmgdmbnecmcefdhjekcoceebi).
+To enhance accessibility and usability, it includes a skip link, WCAG-compliant contrast for both themes, and keyboard-friendly theme toggling. The design was closely aligned with the provided mockup using **[PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonecod/dkaagdgjmgdmbnecmcefdhjekcoceebi)**.
 
 ---
 
-## ✨ Features
+## Features
 
 - Light/Dark Mode toggle with localStorage theme persistence
 - Mobile-first responsive design with media queries
@@ -56,7 +56,7 @@ To enhance accessibility and usability, it includes a skip link, WCAG-compliant 
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to build a pricing grid using **CSS Grid** and semantic structuring
 - Leveraged `clamp()` for responsive font sizing
@@ -67,7 +67,7 @@ To enhance accessibility and usability, it includes a skip link, WCAG-compliant 
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -78,36 +78,36 @@ To enhance accessibility and usability, it includes a skip link, WCAG-compliant 
 
 ---
 
-## 🎨 Design Reference & Tools
+## Design Reference & Tools
 
 - JPG design image
 - PerfectPixel
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://single-price-grid-component-fm-jiro.netlify.app/)
-
----
-
-## 📊 Performance Report
-
-A **Google Lighthouse** audit was conducted on the final version of this project. You can view the full report [here](./assets/downloads/lighthouse-performance-report.pdf).
+Or you can check out the **[live website here](https://single-price-grid-component-fm-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Performance Report
+
+A **Google Lighthouse** audit was conducted on the final version of this project. You can view the **[full report here](./assets/downloads/lighthouse-performance-report.pdf)**.
+
+---
+
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **July 2025**
+Month/Year: **July 2025**
 
-📚 Journey: **4<sup>th</sup>** month of learning _frontend web development_.
+Journey: **4<sup>th</sup>** month of learning _frontend web development_.
